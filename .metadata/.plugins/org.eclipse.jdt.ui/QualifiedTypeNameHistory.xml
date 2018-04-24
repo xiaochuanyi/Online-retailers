@@ -4,4 +4,6 @@
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="mall.pojo.TbItem"/>
+<fullyQualifiedTypeName name="java.lang.Iterable"/>
 </qualifiedTypeNameHistroy>

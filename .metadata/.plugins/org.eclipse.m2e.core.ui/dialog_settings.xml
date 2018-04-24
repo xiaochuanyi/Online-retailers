@@ -9,12 +9,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="manager-web"/>
+			<item value="manager-pojo"/>
 			<item value="manager"/>
-			<item value="service"/>
-			<item value="interface"/>
-			<item value="dao"/>
-			<item value="pojo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -71,11 +67,17 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="manager-pojo"/>
 			<item value="manager-web"/>
+			<item value="manager-interface"/>
+			<item value="manager-service"/>
+			<item value="manager-dao"/>
+			<item value="pojo"/>
+			<item value="Dao"/>
 			<item value="service"/>
 			<item value="interface"/>
+			<item value="manager-Dao"/>
 			<item value="dao"/>
-			<item value="pojo"/>
 			<item value="taotao-manager-interface"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -89,8 +91,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
-			<item value="C:\课用软件\mall\manager"/>
 			<item value="C:\课用软件\mall\parent"/>
+			<item value="C:\课用软件\mall\manager"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -103,13 +105,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.manager.web"/>
+			<item value="org.manager.pojo"/>
 		</list>
 		<list key="groupId">
 			<item value="mall"/>
 		</list>
 		<list key="artifactId">
-			<item value="manager-web"/>
+			<item value="manager-pojo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
