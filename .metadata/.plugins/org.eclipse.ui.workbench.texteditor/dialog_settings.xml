@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="273" key="DIALOG_WIDTH"/>
+		<item value="161" key="DIALOG_Y_ORIGIN"/>
+		<item value="111" key="DIALOG_X_ORIGIN"/>
+		<item value="399" key="DIALOG_HEIGHT"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="page_index" key="selection"/>
+		<list key="findhistory">
+			<item value="page_index"/>
+			<item value="totalPrice"/>
+			<item value="target=&quot;_blank&quot; "/>
+			<item value="苏丙伦"/>
+			<item value="我的交易"/>
+			<item value="taotao-item-web"/>
+		</list>
+		<list key="replacehistory">
+			<item value=""/>
+			<item value="入云龙"/>
+			<item value="taotao-home-web"/>
+		</list>
+	</section>
+</section>
