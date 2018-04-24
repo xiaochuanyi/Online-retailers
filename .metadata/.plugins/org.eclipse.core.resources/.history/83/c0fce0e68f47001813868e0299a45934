@@ -1,0 +1,15 @@
+package mall.service.impl;
+
+import org.springframework.stereotype.Service;
+
+import mall.pojo.TbItem;
+import mall.service.ItemService;
+@Service
+public class ItemServiceImpl implements ItemService {
+
+	public TbItem getItemById(long itemId) {
+		
+		return null;
+	}
+
+}
