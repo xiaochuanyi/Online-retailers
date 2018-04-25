@@ -1,0 +1,5 @@
+package mall.common.pojo;
+
+public class EasyUIDataGridResult {
+
+}

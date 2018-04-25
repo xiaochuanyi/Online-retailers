@@ -4580,3 +4580,486 @@ java.io.FileNotFoundException: C:\课用软件\mall\manager\manager-service\targ
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-25 23:25:55.739
 !MESSAGE The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:00.248
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:00.251
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:00.253
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:00.255
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:00.257
+!MESSAGE properties loading for project 'manager-service'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:00.258
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:00.260
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:00.262
+!MESSAGE properties loading for project 'manager-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:00.267
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:02.638
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:02.640
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:02.642
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:02.644
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:02.645
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:02.646
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:04.037
+!MESSAGE properties loading for project 'manager-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:04.040
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:04.041
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:04.926
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:04.928
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:04.929
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:04.930
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:04.931
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:04.931
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:04.932
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:07.665
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:07.668
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:07.669
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:07.671
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:07.672
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:07.674
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:07.675
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:07.677
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:07.679
+!MESSAGE properties loading for project 'manager-service'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:07.680
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:07.681
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:31:07.683
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-25 23:32:21.775
+!MESSAGE The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:55.806
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:55.813
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 4 0 2018-04-25 23:44:55.818
+!MESSAGE File not found: C:\课用软件\mall\manager\manager-dao\target\classes\META-INF\maven\mall\manager-dao\pom.properties.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: C:\课用软件\mall\manager\manager-dao\target\classes\META-INF\maven\mall\manager-dao\pom.properties.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:49)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:391)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:260)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.util.ProjectProperties.loadProjectProperties(ProjectProperties.java:83)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.startup.Startup$1.resourceChanged(Startup.java:69)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:373)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1470)
+	at org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1598)
+	at org.eclipse.debug.core.RefreshUtil.refreshResources(RefreshUtil.java:131)
+	at org.eclipse.debug.core.RefreshUtil.refreshResources(RefreshUtil.java:291)
+	at org.eclipse.debug.ui.RefreshTab.refreshResources(RefreshTab.java:408)
+	at org.eclipse.m2e.internal.launch.MavenRuntimeLaunchSupport$BackgroundResourceRefresher$1.run(MavenRuntimeLaunchSupport.java:197)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.io.FileNotFoundException: C:\课用软件\mall\manager\manager-dao\target\classes\META-INF\maven\mall\manager-dao\pom.properties (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	... 17 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2018-04-25 23:44:55.819
+!MESSAGE File not found: C:\课用软件\mall\manager\manager-dao\target\classes\META-INF\maven\mall\manager-dao\pom.properties.
+!STACK 0
+java.io.FileNotFoundException: C:\课用软件\mall\manager\manager-dao\target\classes\META-INF\maven\mall\manager-dao\pom.properties (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:260)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.util.ProjectProperties.loadProjectProperties(ProjectProperties.java:83)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.startup.Startup$1.resourceChanged(Startup.java:69)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:373)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1470)
+	at org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1598)
+	at org.eclipse.debug.core.RefreshUtil.refreshResources(RefreshUtil.java:131)
+	at org.eclipse.debug.core.RefreshUtil.refreshResources(RefreshUtil.java:291)
+	at org.eclipse.debug.ui.RefreshTab.refreshResources(RefreshTab.java:408)
+	at org.eclipse.m2e.internal.launch.MavenRuntimeLaunchSupport$BackgroundResourceRefresher$1.run(MavenRuntimeLaunchSupport.java:197)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:55.824
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:55.827
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 4 0 2018-04-25 23:44:55.830
+!MESSAGE File not found: C:\课用软件\mall\manager\manager-pojo\target\classes\META-INF\maven\mall\manager-pojo\pom.properties.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: C:\课用软件\mall\manager\manager-pojo\target\classes\META-INF\maven\mall\manager-pojo\pom.properties.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:49)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:391)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:260)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.util.ProjectProperties.loadProjectProperties(ProjectProperties.java:83)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.startup.Startup$1.resourceChanged(Startup.java:69)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:373)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1470)
+	at org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1598)
+	at org.eclipse.debug.core.RefreshUtil.refreshResources(RefreshUtil.java:131)
+	at org.eclipse.debug.core.RefreshUtil.refreshResources(RefreshUtil.java:291)
+	at org.eclipse.debug.ui.RefreshTab.refreshResources(RefreshTab.java:408)
+	at org.eclipse.m2e.internal.launch.MavenRuntimeLaunchSupport$BackgroundResourceRefresher$1.run(MavenRuntimeLaunchSupport.java:197)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.io.FileNotFoundException: C:\课用软件\mall\manager\manager-pojo\target\classes\META-INF\maven\mall\manager-pojo\pom.properties (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	... 17 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2018-04-25 23:44:55.832
+!MESSAGE File not found: C:\课用软件\mall\manager\manager-pojo\target\classes\META-INF\maven\mall\manager-pojo\pom.properties.
+!STACK 0
+java.io.FileNotFoundException: C:\课用软件\mall\manager\manager-pojo\target\classes\META-INF\maven\mall\manager-pojo\pom.properties (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:260)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.util.ProjectProperties.loadProjectProperties(ProjectProperties.java:83)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.startup.Startup$1.resourceChanged(Startup.java:69)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:373)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1470)
+	at org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1598)
+	at org.eclipse.debug.core.RefreshUtil.refreshResources(RefreshUtil.java:131)
+	at org.eclipse.debug.core.RefreshUtil.refreshResources(RefreshUtil.java:291)
+	at org.eclipse.debug.ui.RefreshTab.refreshResources(RefreshTab.java:408)
+	at org.eclipse.m2e.internal.launch.MavenRuntimeLaunchSupport$BackgroundResourceRefresher$1.run(MavenRuntimeLaunchSupport.java:197)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:55.838
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:55.840
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:55.843
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 4 0 2018-04-25 23:44:55.846
+!MESSAGE File not found: C:\课用软件\mall\manager\manager-service\target\m2e-wtp\web-resources\META-INF\maven\mall\manager-service\pom.properties.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: C:\课用软件\mall\manager\manager-service\target\m2e-wtp\web-resources\META-INF\maven\mall\manager-service\pom.properties.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:49)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:391)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:260)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.util.ProjectProperties.loadProjectProperties(ProjectProperties.java:83)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.startup.Startup$1.resourceChanged(Startup.java:69)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:373)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1470)
+	at org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1598)
+	at org.eclipse.debug.core.RefreshUtil.refreshResources(RefreshUtil.java:131)
+	at org.eclipse.debug.core.RefreshUtil.refreshResources(RefreshUtil.java:291)
+	at org.eclipse.debug.ui.RefreshTab.refreshResources(RefreshTab.java:408)
+	at org.eclipse.m2e.internal.launch.MavenRuntimeLaunchSupport$BackgroundResourceRefresher$1.run(MavenRuntimeLaunchSupport.java:197)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.io.FileNotFoundException: C:\课用软件\mall\manager\manager-service\target\m2e-wtp\web-resources\META-INF\maven\mall\manager-service\pom.properties (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	... 17 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2018-04-25 23:44:55.847
+!MESSAGE File not found: C:\课用软件\mall\manager\manager-service\target\m2e-wtp\web-resources\META-INF\maven\mall\manager-service\pom.properties.
+!STACK 0
+java.io.FileNotFoundException: C:\课用软件\mall\manager\manager-service\target\m2e-wtp\web-resources\META-INF\maven\mall\manager-service\pom.properties (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:260)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.util.ProjectProperties.loadProjectProperties(ProjectProperties.java:83)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.startup.Startup$1.resourceChanged(Startup.java:69)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:373)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1470)
+	at org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1598)
+	at org.eclipse.debug.core.RefreshUtil.refreshResources(RefreshUtil.java:131)
+	at org.eclipse.debug.core.RefreshUtil.refreshResources(RefreshUtil.java:291)
+	at org.eclipse.debug.ui.RefreshTab.refreshResources(RefreshTab.java:408)
+	at org.eclipse.m2e.internal.launch.MavenRuntimeLaunchSupport$BackgroundResourceRefresher$1.run(MavenRuntimeLaunchSupport.java:197)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:55.852
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:55.855
+!MESSAGE properties loading for project 'manager-interface'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:55.858
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:56.123
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:56.128
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:56.130
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:56.133
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:56.135
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:56.138
+!MESSAGE properties loading for project 'manager-service'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:56.140
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:56.142
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:59.029
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:59.032
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:59.034
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:59.038
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:59.040
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:44:59.044
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-25 23:47:09.161
+!MESSAGE The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:47:13.913
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:47:13.916
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 4 0 2018-04-25 23:47:13.918
+!MESSAGE File not found: C:\课用软件\mall\manager\manager-interface\target\classes\META-INF\maven\mall\manager-interface\pom.properties.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: C:\课用软件\mall\manager\manager-interface\target\classes\META-INF\maven\mall\manager-interface\pom.properties.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:49)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:391)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:260)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.util.ProjectProperties.loadProjectProperties(ProjectProperties.java:83)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.startup.Startup$1.resourceChanged(Startup.java:69)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:373)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1470)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.io.FileNotFoundException: C:\课用软件\mall\manager\manager-interface\target\classes\META-INF\maven\mall\manager-interface\pom.properties (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	... 13 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2018-04-25 23:47:13.919
+!MESSAGE File not found: C:\课用软件\mall\manager\manager-interface\target\classes\META-INF\maven\mall\manager-interface\pom.properties.
+!STACK 0
+java.io.FileNotFoundException: C:\课用软件\mall\manager\manager-interface\target\classes\META-INF\maven\mall\manager-interface\pom.properties (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:260)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.util.ProjectProperties.loadProjectProperties(ProjectProperties.java:83)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.startup.Startup$1.resourceChanged(Startup.java:69)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:373)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1470)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:47:13.921
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 4 0 2018-04-25 23:47:13.924
+!MESSAGE File not found: C:\课用软件\mall\manager\manager-interface\target\maven-archiver\pom.properties.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: C:\课用软件\mall\manager\manager-interface\target\maven-archiver\pom.properties.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:49)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:391)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:260)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.util.ProjectProperties.loadProjectProperties(ProjectProperties.java:83)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.startup.Startup$1.resourceChanged(Startup.java:69)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:373)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1470)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.io.FileNotFoundException: C:\课用软件\mall\manager\manager-interface\target\maven-archiver\pom.properties (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	... 13 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2018-04-25 23:47:13.924
+!MESSAGE File not found: C:\课用软件\mall\manager\manager-interface\target\maven-archiver\pom.properties.
+!STACK 0
+java.io.FileNotFoundException: C:\课用软件\mall\manager\manager-interface\target\maven-archiver\pom.properties (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:260)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.util.ProjectProperties.loadProjectProperties(ProjectProperties.java:83)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.startup.Startup$1.resourceChanged(Startup.java:69)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:373)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1470)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:47:13.927
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:47:13.928
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:47:13.930
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:47:15.124
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:47:15.127
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:47:15.129
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:47:15.130
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:47:15.131
+!MESSAGE properties loading for project 'manager-interface'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:47:15.133
+!MESSAGE properties loading for project 'manager-service'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:47:15.134
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 23:47:15.136
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-25 23:47:21.032
+!MESSAGE The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
