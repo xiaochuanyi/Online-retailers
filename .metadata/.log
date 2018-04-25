@@ -3996,3 +3996,57 @@ java.io.FileNotFoundException: C:\课用软件\mall\manager\manager-service\targ
 
 !ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:29:41.342
 !MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:33:27.931
+!MESSAGE properties loading for project 'manager-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:33:27.934
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:33:30.079
+!MESSAGE properties loading for project 'manager-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:33:30.081
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:33:30.083
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-25 20:50:12.309
+!MESSAGE The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:50:14.426
+!MESSAGE properties loading for project 'manager-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:50:14.427
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:50:14.428
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:50:14.650
+!MESSAGE properties loading for project 'manager-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:50:14.652
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:50:14.654
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:51:24.661
+!MESSAGE properties loading for project 'manager-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:51:24.662
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:51:24.663
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:51:24.916
+!MESSAGE properties loading for project 'manager-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:51:24.917
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-25 20:51:24.918
+!MESSAGE loading file 'logging.properties'
