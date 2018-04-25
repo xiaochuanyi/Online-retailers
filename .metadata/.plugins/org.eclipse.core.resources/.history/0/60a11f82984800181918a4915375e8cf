@@ -1,0 +1,7 @@
+package mall.pagehelper;
+
+public class PageHelperTest {
+	public void testPageHelper() throws Exception{
+		
+	}
+}

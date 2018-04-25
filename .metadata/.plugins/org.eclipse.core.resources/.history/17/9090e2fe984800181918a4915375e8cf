@@ -1,0 +1,7 @@
+package mall.pagehelper;
+
+public class PageHelperTest {
+	public void testPageHelper() throws Exception{
+		//执行sql语句前设置分页信息使用PageHelper的startPage方法
+	}
+}
