@@ -1,3 +1,5 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/manager-service/src/main/resources/spring/applicationContext-dao.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/manager-service/src/main/resources/spring/applicationContext-trans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/manager-web/src/main/resources/spring/applicationContext-dao.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/manager-web/src/main/resources/spring/applicationContext-service.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/manager-web/src/main/resources/spring/applicationContext-trans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>

@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model/>
+<aop-reference-model>
+<aop-project name="manager-web"/>
+<aop-project name="manager-service">
+<aspect-definition advice-class-name="org.springframework.transaction.interceptor.TransactionInterceptor" advice-method-name="invoke" advice-method-parameter-types="org.aopalliance.intercept.MethodInvocation" advice-type="AROUND" aspect-end-line-number="33" aspect-name="txAdvice" aspect-start-line-number="32" factory-id="org.springframework.ide.eclipse.aop.core.javaAdvisorDefinitionElementFactory" file="/manager-service/src/main/resources/spring/applicationContext-trans.xml" pointcut-expression="execution(* mall.service..*.*(..))" proxy-target-class="false">
+<aop-reference advice-type="AROUND" bean="1:BeansModel|2:manager-service|3:src/main/resources/spring/applicationContext-service.xml|7:beans:9|8:itemServiceImpl:9" bean-file="/manager-service/src/main/resources/spring/applicationContext-service.xml" bean-start-line="9" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/manager-service/src/main/resources/spring/applicationContext-service.xml" source="=manager-service/C:\/¿ÎÓÃÈí¼þ\/mall\/repository\/org\/springframework\/spring-tx\/4.2.4.RELEASE\/spring-tx-4.2.4.RELEASE.jar&lt;org.springframework.transaction.interceptor(TransactionInterceptor.class[TransactionInterceptor~invoke~Lorg.aopalliance.intercept.MethodInvocation;" source-start-line="-1" target="=manager-service/src\/main\/java&lt;mall.service.impl{ItemServiceImpl.java[ItemServiceImpl~getItemById~J" target-start-line="13"/>
+</aspect-definition>
+</aop-project>
+</aop-reference-model>

@@ -9,9 +9,11 @@
 	</section>
 	<section name="ExternalProjectImportWizard">
 		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
-		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\课用软件\mall\manager-web"/>
+			<item value="C:\课用软件\mall\manager\manager-web"/>
 			<item value="E:\文件\项目视频\e3商城_day01\黑马32期\01.教案-3.0\01.参考资料\mybatis\逆向工程\generatorSqlmapCustom"/>
 			<item value="C:\课用软件\mall\manager\dao"/>
 			<item value="D:\传智播客\01.课程\05.电商项目\01.教案-2.1\01.参考资料\mybatis\pagehelper-fix"/>
