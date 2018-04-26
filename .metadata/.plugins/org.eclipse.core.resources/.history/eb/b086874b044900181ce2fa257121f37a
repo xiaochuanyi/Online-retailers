@@ -1,0 +1,26 @@
+package mall.service.impl;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import mall.common.pojo.EasyUITreeNode;
+import mall.mapper.TbItemCatMapper;
+import mall.service.ItemCatService;
+/*
+ * 商品分类管理
+ */
+@Service
+public class ItemCatServiceImpl implements ItemCatService{
+	@Autowired
+	private TbItemCatMapper itemCatMapper;
+	@Override
+	public List<EasyUITreeNode> getItemCatlist(long parentId) {
+		//根据parentid查询子节点列表
+		//把列表转换为EasyUITreeNode列表
+		//返回结果
+		return null;
+	}
+
+}

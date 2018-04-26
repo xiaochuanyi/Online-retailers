@@ -1,0 +1,18 @@
+package mall.service.impl;
+
+import java.util.List;
+
+import mall.common.pojo.EasyUITreeNode;
+import mall.service.ItemCatService;
+/*
+ * 商品分类管理
+ */
+public class ItemCatServiceImpl implements ItemCatService{
+
+	@Override
+	public List<EasyUITreeNode> getItemCatlist(long parentId) {
+		
+		return null;
+	}
+
+}

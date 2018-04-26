@@ -23,6 +23,6 @@
 	<dubbo:application name="manager-web"/>
 	<dubbo:registry protocol="zookeeper" address="192.168.137.128:2181"/>	
 	<dubbo:reference interface="mall.service.ItemService" id="itemService" />
-	
+	<dubbo:reference interface="mall.service.ItemCatService" id="itemCatService" />
 	
 </beans>
