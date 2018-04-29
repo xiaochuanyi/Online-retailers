@@ -7,8 +7,6 @@ import org.csource.fastdfs.TrackerClient;
 import org.csource.fastdfs.TrackerServer;
 import org.junit.Test;
 
-import mall.commom.utils.FastDFSClient;
-
 public class FastDfsTest {
 
 	@Test
@@ -31,10 +29,7 @@ public class FastDfsTest {
 			System.out.println(string);
 		}
 	}
-	@Test
 	public void testFastClient() throws Exception{
-		FastDFSClient fastDFSClient = new FastDFSClient("C:\\课用软件\\mall\\manager-web\\src\\test\\resources\\conf\\client.conf");
-		String string = fastDFSClient.uploadFile("D:/picture/x2015211857.jpg");
-		System.out.println(string);
+		
 	}
 }

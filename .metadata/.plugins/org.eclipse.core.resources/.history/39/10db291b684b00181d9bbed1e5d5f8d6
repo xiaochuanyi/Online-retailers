@@ -31,10 +31,8 @@ public class FastDfsTest {
 			System.out.println(string);
 		}
 	}
-	@Test
 	public void testFastClient() throws Exception{
 		FastDFSClient fastDFSClient = new FastDFSClient("C:\\课用软件\\mall\\manager-web\\src\\test\\resources\\conf\\client.conf");
-		String string = fastDFSClient.uploadFile("D:/picture/x2015211857.jpg");
-		System.out.println(string);
+		fastDFSClient.uploadFile("D:/picture/x2015211857.jpg");
 	}
 }

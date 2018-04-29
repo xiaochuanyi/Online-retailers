@@ -7254,3 +7254,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-29 12:39:49.515
 !MESSAGE loading file 'logging.properties'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-29 12:45:35.310
+!MESSAGE The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
