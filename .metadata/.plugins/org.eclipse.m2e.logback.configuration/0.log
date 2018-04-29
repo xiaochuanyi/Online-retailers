@@ -5558,3 +5558,4 @@ org.eclipse.core.internal.resources.ResourceException: Resource '/taotao-search-
 2018-04-29 15:57:12,124 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-04-29 15:57:12,132 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2018-04-29 15:57:14,323 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\课用软件\mall\manager-web
+2018-04-29 15:57:14,324 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s C:\课用软件\mall\repository\settings.xml clean tomcat7:run
