@@ -1,0 +1,7 @@
+package mall.fast;
+
+public class FastDfsTest {
+	public void testUpload() throws Exception{
+		
+	}
+}
