@@ -17,7 +17,7 @@ import mall.service.ItemCatService;
 @Service
 public class ItemCatServiceImpl implements ItemCatService{
 	@Autowired
-	private TbItemCatMapper itemCatMapper;
+	public TbItemCatMapper itemCatMapper;
 	public List<EasyUITreeNode> getItemCatlist(long parentId) {
 		//根据parentid查询子节点列表
 		TbItemCatExample example = new TbItemCatExample();

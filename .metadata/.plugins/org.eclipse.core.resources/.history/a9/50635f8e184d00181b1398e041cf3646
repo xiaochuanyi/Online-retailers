@@ -1,0 +1,5 @@
+package mall.portal.controller;
+
+public class IndexController {
+
+}
