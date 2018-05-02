@@ -1,0 +1,16 @@
+package mall.content.service.impl;
+
+import java.util.List;
+
+import mall.common.pojo.EasyUITreeNode;
+import mall.content.service.ContentCategoryService;
+
+public class ContentCategoryServiceImpl implements ContentCategoryService {
+
+	@Override
+	public List<EasyUITreeNode> getContentCatList(Long parentId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
