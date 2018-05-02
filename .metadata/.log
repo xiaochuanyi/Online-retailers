@@ -14638,3 +14638,333 @@ java.io.FileNotFoundException: C:\课用软件\mall\content\content-service\targ
 
 !ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 18:49:48.565
 !MESSAGE loading file 'logging.properties'
+
+!ENTRY org.eclipse.recommenders.rcp 2 23 2018-05-02 19:17:12.432
+!MESSAGE Failed to parse news feed
+!STACK 0
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1884)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:276)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:270)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1439)
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:209)
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:878)
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:814)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1016)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1312)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1339)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1323)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:290)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:259)
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:125)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:319)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.apache.http.client.fluent.Executor.execute(Executor.java:206)
+	at org.eclipse.recommenders.internal.rcp.news.CheckForProjectNewsJob.getRSSFeed(CheckForProjectNewsJob.java:138)
+	at org.eclipse.recommenders.internal.rcp.news.CheckForProjectNewsJob.doRun(CheckForProjectNewsJob.java:89)
+	at org.eclipse.recommenders.internal.rcp.news.CheckForProjectNewsJob.run(CheckForProjectNewsJob.java:62)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:385)
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+	at sun.security.validator.Validator.validate(Validator.java:260)
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:326)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:231)
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:126)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1421)
+	... 24 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:196)
+	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:268)
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:380)
+	... 30 more
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.552
+!MESSAGE properties loading for project 'content'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.555
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.557
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.560
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.563
+!MESSAGE properties loading for project 'content-service'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.565
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.568
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.570
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.575
+!MESSAGE loading file 'log4j.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.577
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.580
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.582
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.585
+!MESSAGE properties loading for project 'manager-interface'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.587
+!MESSAGE properties loading for project 'manager-service'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.588
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.591
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.593
+!MESSAGE properties loading for project 'manager-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.598
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:40.600
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:42.089
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:42.091
+!MESSAGE loading file 'log4j.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:42.092
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:42.093
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:42.095
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:42.096
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:43.817
+!MESSAGE properties loading for project 'content'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:43.819
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:43.820
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:43.821
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:43.822
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:43.824
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:43.825
+!MESSAGE loading file 'log4j.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:43.828
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:43.829
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:43.831
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:43.833
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:43.834
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:45.513
+!MESSAGE properties loading for project 'manager-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:45.517
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:45.517
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:45.518
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.752
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.754
+!MESSAGE loading file 'log4j.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.754
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.755
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.756
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.757
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.758
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.759
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.791
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.792
+!MESSAGE loading file 'log4j.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.793
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.794
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.795
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.795
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.796
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.797
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.798
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.799
+!MESSAGE properties loading for project 'manager-service'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.799
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.800
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:47.801
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:48.697
+!MESSAGE properties loading for project 'content'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:48.698
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:48.699
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:48.700
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:48.700
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:48.701
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:48.702
+!MESSAGE properties loading for project 'content-service'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:48.703
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:48.703
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:26:48.704
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:31:55.722
+!MESSAGE properties loading for project 'content'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:31:55.725
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:31:55.727
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:31:55.729
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:31:55.731
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:31:55.733
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:31:55.735
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:31:55.737
+!MESSAGE properties loading for project 'content-interface'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:31:55.739
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-02 19:33:03.029
+!MESSAGE The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:33:06.113
+!MESSAGE properties loading for project 'portal-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:33:06.116
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:33:06.118
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:33:06.120
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:35:37.123
+!MESSAGE properties loading for project 'portal-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:35:37.127
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:35:37.131
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:35:37.133
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:35:58.982
+!MESSAGE properties loading for project 'portal-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:35:58.985
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:35:58.987
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-02 19:35:58.995
+!MESSAGE loading file 'logging.properties'
