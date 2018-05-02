@@ -38,4 +38,14 @@ public class ItemController {
 		E3Result result = itemservice.addItem(tbItem, desc);
 		return result;
 	}
+	/*
+	 * 商品删除
+	 */
+	@RequestMapping(value="/rest/item/delete",method=RequestMethod.POST)
+	@ResponseBody
+	public E3Result delteItem(long ids){
+		E3Result result = itemservice.deleteItem(ids);
+		return result;
+	}
+	
 }

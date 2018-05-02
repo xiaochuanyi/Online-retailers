@@ -23,6 +23,12 @@
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="589" key="height"/>
+		<item value="480" key="width"/>
+		<item value="114" key="y"/>
+		<item value="783" key="x"/>
+	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
 			<item value="C:\课用软件\mall\manager"/>
@@ -37,12 +43,6 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
-	</section>
-	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
-		<item value="589" key="height"/>
-		<item value="480" key="width"/>
-		<item value="114" key="y"/>
-		<item value="783" key="x"/>
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="groupId">
@@ -66,6 +66,22 @@
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\课用软件\mall\manager-web"/>
+			<item value="C:\课用软件\mall"/>
+			<item value="D:\workspaces-itcast\base\taotao-manager"/>
+			<item value="D:\workspaces-itcast\base"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
 			<item value="content-service"/>
@@ -82,22 +98,6 @@
 			<item value="manager-Dao"/>
 			<item value="dao"/>
 			<item value="taotao-manager-interface"/>
-		</list>
-		<list key="projectNameTemplate">
-			<item value="[artifactId]"/>
-			<item value="[artifactId]-TRUNK"/>
-			<item value="[artifactId]-[version]"/>
-			<item value="[groupId].[artifactId]"/>
-			<item value="[groupId].[artifactId]-[version]"/>
-			<item value="[name]"/>
-		</list>
-	</section>
-	<section name="MavenProjectImportWizardPage">
-		<list key="rootDirectory">
-			<item value="C:\课用软件\mall\manager-web"/>
-			<item value="C:\课用软件\mall"/>
-			<item value="D:\workspaces-itcast\base\taotao-manager"/>
-			<item value="D:\workspaces-itcast\base"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
