@@ -5,6 +5,7 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
 import mall.common.pojo.EasyUITreeNode;
 import mall.mapper.TbItemCatMapper;
 import mall.pojo.TbItemCat;
@@ -37,5 +38,4 @@ public class ItemCatServiceImpl implements ItemCatService{
 		//返回结果
 		return resultList;
 	}
-
 }

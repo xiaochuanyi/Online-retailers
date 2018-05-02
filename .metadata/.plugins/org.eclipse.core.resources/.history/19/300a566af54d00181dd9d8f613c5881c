@@ -1,0 +1,5 @@
+package mall.content.service;
+
+public interface ContentService {
+
+}

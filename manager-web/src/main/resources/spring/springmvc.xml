@@ -37,4 +37,5 @@
 	<dubbo:reference interface="mall.service.ItemService" id="itemService" />
 	<dubbo:reference interface="mall.service.ItemCatService" id="itemCatService" />
 	<dubbo:reference interface="mall.content.service.ContentCategoryService" id="contentCategoryService" />
+	<dubbo:reference interface="mall.content.service.ContentService" id="contentService" />
 </beans>
