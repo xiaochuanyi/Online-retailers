@@ -15907,3 +15907,370 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:268)
 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:380)
 	... 30 more
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.540
+!MESSAGE properties loading for project 'content'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.541
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.542
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.544
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.545
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.546
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.547
+!MESSAGE properties loading for project 'content-service'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.548
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.549
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.550
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.551
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.552
+!MESSAGE loading file 'log4j.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.553
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.554
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.555
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.556
+!MESSAGE properties loading for project 'manager-service'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.557
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.558
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.559
+!MESSAGE properties loading for project 'portal-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.560
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:42.561
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:46.025
+!MESSAGE properties loading for project 'content'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:46.026
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:46.030
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:46.033
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:46.037
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:46.038
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:46.042
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:46.044
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:46.046
+!MESSAGE loading file 'log4j.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:46.047
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:46.048
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:46.051
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:46.053
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:46.054
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:50.409
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:50.421
+!MESSAGE loading file 'log4j.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:50.424
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:50.428
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:50.431
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:50.434
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:50.438
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:50.441
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:52.187
+!MESSAGE properties loading for project 'manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:52.189
+!MESSAGE loading file 'log4j.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:52.191
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:52.192
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:52.194
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:52.195
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:52.196
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:52.198
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:52.199
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:52.201
+!MESSAGE properties loading for project 'manager-service'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:52.202
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:52.203
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:52.204
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.896
+!MESSAGE properties loading for project 'content'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.924
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.925
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.926
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.927
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.928
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.930
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.934
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.935
+!MESSAGE properties loading for project 'content-service'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.936
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.937
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.938
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.939
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.940
+!MESSAGE properties loading for project 'portal-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.941
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.942
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 11:44:53.943
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.267
+!MESSAGE properties loading for project 'content'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.270
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 4 0 2018-05-03 12:07:39.274
+!MESSAGE File not found: C:\课用软件\mall\content\content-interface\target\classes\META-INF\maven\mall\content-interface\pom.properties.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: C:\课用软件\mall\content\content-interface\target\classes\META-INF\maven\mall\content-interface\pom.properties.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:49)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:391)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:260)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.util.ProjectProperties.loadProjectProperties(ProjectProperties.java:83)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.startup.Startup$1.resourceChanged(Startup.java:69)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:373)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1470)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.io.FileNotFoundException: C:\课用软件\mall\content\content-interface\target\classes\META-INF\maven\mall\content-interface\pom.properties (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	... 14 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2018-05-03 12:07:39.278
+!MESSAGE File not found: C:\课用软件\mall\content\content-interface\target\classes\META-INF\maven\mall\content-interface\pom.properties.
+!STACK 0
+java.io.FileNotFoundException: C:\课用软件\mall\content\content-interface\target\classes\META-INF\maven\mall\content-interface\pom.properties (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:260)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.util.ProjectProperties.loadProjectProperties(ProjectProperties.java:83)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.startup.Startup$1.resourceChanged(Startup.java:69)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:373)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1470)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.291
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.294
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.297
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.300
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.302
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 4 0 2018-05-03 12:07:39.305
+!MESSAGE File not found: C:\课用软件\mall\content\content-service\target\m2e-wtp\web-resources\META-INF\maven\mall\content-service\pom.properties.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: C:\课用软件\mall\content\content-service\target\m2e-wtp\web-resources\META-INF\maven\mall\content-service\pom.properties.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:49)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:391)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:260)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.util.ProjectProperties.loadProjectProperties(ProjectProperties.java:83)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.startup.Startup$1.resourceChanged(Startup.java:69)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:373)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1470)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.io.FileNotFoundException: C:\课用软件\mall\content\content-service\target\m2e-wtp\web-resources\META-INF\maven\mall\content-service\pom.properties (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	... 14 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2018-05-03 12:07:39.306
+!MESSAGE File not found: C:\课用软件\mall\content\content-service\target\m2e-wtp\web-resources\META-INF\maven\mall\content-service\pom.properties.
+!STACK 0
+java.io.FileNotFoundException: C:\课用软件\mall\content\content-service\target\m2e-wtp\web-resources\META-INF\maven\mall\content-service\pom.properties (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:260)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.util.ProjectProperties.loadProjectProperties(ProjectProperties.java:83)
+	at jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.startup.Startup$1.resourceChanged(Startup.java:69)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:373)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1470)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.310
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.408
+!MESSAGE properties loading for project 'content'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.413
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.419
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.422
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.428
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.431
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.435
+!MESSAGE properties loading for project 'content-service'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.439
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.443
+!MESSAGE loading file 'resource.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-05-03 12:07:39.446
+!MESSAGE loading file 'logging.properties'

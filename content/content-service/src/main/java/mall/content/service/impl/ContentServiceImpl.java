@@ -29,7 +29,7 @@ import mall.pojo.TbContentExample.Criteria;
 @Service
 public class ContentServiceImpl implements ContentService {
 	@Autowired
-	private JedisClient JedisClient;
+	private JedisClient jedisClient;
 	@Autowired
 	private TbContentMapper contentMapper;
 	@Value("${COUNT_LIST}")
@@ -41,6 +41,8 @@ public class ContentServiceImpl implements ContentService {
 		content.setUpdated(new Date());
 		//插入到数据库
 		contentMapper.insert(content);
+		//缓存同步，删除掉缓存对应的数据
+		jedisClient.hdel(COUNT_LIST, content.getCategoryId().toString());
 		return E3Result.ok();
 	}
 
@@ -49,7 +51,7 @@ public class ContentServiceImpl implements ContentService {
 		//查询缓存
 		try {
 		//如果缓存有直接响应结果
-			String json = JedisClient.hget(COUNT_LIST, cid+"");
+			String json = jedisClient.hget(COUNT_LIST, cid+"");
 			if(StringUtils.isNotBlank(json)){
 				List<TbContent> list = JsonUtils.jsonToList(json, TbContent.class);
 				return list;
@@ -64,7 +66,7 @@ public class ContentServiceImpl implements ContentService {
 		List<TbContent> list = contentMapper.selectByExampleWithBLOBs(example);
 		//把结果添加到缓存
 		try {
-			JedisClient.hset(COUNT_LIST, cid + "",JsonUtils.objectToJson(list) );
+			jedisClient.hset(COUNT_LIST, cid + "",JsonUtils.objectToJson(list) );
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
