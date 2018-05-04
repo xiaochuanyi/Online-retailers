@@ -1,5 +1,6 @@
 mall\controller\ItemCatController.class
 mall\controller\PictureController.class
+mall\controller\SearchItemController.class
 mall\controller\PageController.class
 mall\controller\ContentController.class
 mall\controller\ContentCatController.class
