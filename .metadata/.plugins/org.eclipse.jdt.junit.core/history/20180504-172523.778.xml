@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestSolrJ" project="search-service" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="mall.solrj.TestSolrJ" time="10.792">
+    <testcase name="delete" classname="mall.solrj.TestSolrJ" time="2.155"/>
+    <testcase name="queryIndex" classname="mall.solrj.TestSolrJ" time="8.224"/>
+    <testcase name="addDocument" classname="mall.solrj.TestSolrJ" time="0.413"/>
+  </testsuite>
+</testrun>
