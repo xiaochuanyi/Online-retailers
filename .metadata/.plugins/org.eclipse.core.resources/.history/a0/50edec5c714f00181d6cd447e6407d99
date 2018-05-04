@@ -1,0 +1,27 @@
+package mall.search.service.impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.alibaba.druid.sql.ast.expr.SQLCaseExpr.Item;
+
+import mall.commom.utils.E3Result;
+import mall.search.mapper.ItemMapper;
+import mall.search.service.SearchItemService;
+/**
+ * 索引库维护service
+ * <p>Title: SearchItemServiceImpl</p>
+ * <p>Description: </p>
+ * <p>Company: www.itcast.cn</p> 
+ * @version 1.0
+ */
+@Service
+public class SearchItemServiceImpl implements SearchItemService {
+	@Autowired
+	private ItemMapper itemMapper;
+	@Override
+	public E3Result importAllItems() {
+		return null;
+	}
+
+}
