@@ -3,3 +3,21 @@
 1525419279059	Delete element
 1525419337618	Rename resource 'TbItemCatMapper.xml'
 1525421608011	Copy file
+1525435424214	Rename package 'search'
+1525438708745	Rename package 'mall.search.mapper'
+1525438719732	Rename package 'mall.search.service.impl'
+1525438755223	Copy package
+1525438761262	Delete element
+1525438778136	Move compilation unit
+1525438783908	Move file
+1525438789828	Delete element
+1525438809379	Move compilation unit
+1525438811182	Move file
+1525438827202	Delete element
+1525438873615	Rename package 'service.impl'
+1525438883400	Rename package 'mapper'
+1525438893453	Rename package 'dao'
+1525438926759	Rename package 'mall.service.impl'
+1525438940129	Rename package 'mall.mapper'
+1525438954196	Rename package 'mall.dao'
+1525439435084	Rename package 'mall.service.search.impl'

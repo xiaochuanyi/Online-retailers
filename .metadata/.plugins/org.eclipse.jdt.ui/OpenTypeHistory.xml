@@ -4,4 +4,6 @@
 <typeInfo handle="=content-service/C:\/Program Files \(x86)\/Java\/jdk1.7.0_72\/jre\/lib\/rt.jar&lt;javax.swing.text(AbstractDocument$Content.class[Content" modifiers="1545" timestamp="1524633393826"/>
 <typeInfo handle="=content-interface/src\/main\/java&lt;mall.content.service{ContentCategoryService.java[ContentCategoryService" modifiers="513" timestamp="1525246774740"/>
 <typeInfo handle="=content-interface/src\/main\/java&lt;mall.content.service{ContentService.java[ContentService" modifiers="513" timestamp="1525260449371"/>
+<typeInfo handle="=search-interface/src\/main\/java&lt;mall.search.service{SearchItemService.java[SearchItemService" modifiers="513" timestamp="1525420528584"/>
+<typeInfo handle="=search-interface/src\/main\/java&lt;mall.search.service{SearchService.java[SearchService" modifiers="513" timestamp="1525435803083"/>
 </typeInfoHistroy>

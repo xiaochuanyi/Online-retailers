@@ -1,0 +1,23 @@
+package mall.search.service.impl;
+
+import org.springframework.stereotype.Service;
+
+import mall.common.pojo.SearchResult;
+import mall.search.service.SearchService;
+/**
+ * 商品搜索service
+ * <p>Title: SearchServiceImpl</p>
+ * <p>Description: </p>
+ * <p>Company: www.itcast.cn</p> 
+ * @version 1.0
+ */
+@Service
+public class SearchServiceImpl implements SearchService {
+
+	@Override
+	public SearchResult search(String keyword, int page, int rows) {
+		
+		return null;
+	}
+
+}

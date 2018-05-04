@@ -1,2 +1,4 @@
 mall\search\mapper\ItemMapper.class
+mall\search\dao\SearchDao.class
+mall\search\service\impl\SearchServiceImpl.class
 mall\search\service\impl\SearchItemServiceImpl.class

@@ -1,0 +1,5 @@
+package mall.search.controller;
+
+public class SearchController {
+
+}

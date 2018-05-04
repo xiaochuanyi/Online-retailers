@@ -1,0 +1,19 @@
+package mall.search.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+/**
+ * 商品搜索controller
+ * <p>Title: SearchController</p>
+ * <p>Description: </p>
+ * <p>Company: www.itcast.cn</p> 
+ * @version 1.0
+ */
+@Controller
+public class SearchController {
+	@RequestMapping("/search")
+	@ResponseBody
+	public 
+}
