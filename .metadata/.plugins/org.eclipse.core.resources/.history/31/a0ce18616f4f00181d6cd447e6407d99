@@ -1,0 +1,16 @@
+package mall.solrj;
+
+import org.apache.solr.client.solrj.SolrServer;
+import org.apache.solr.client.solrj.impl.HttpSolrServer;
+
+public class TestSolrJ {
+	public void addDocument() throws Exception{
+		//创建solrService对象，创建一个连接，参数solr服务的url
+		SolrServer solrServer = new HttpSolrServer("http://192.168.25.177:8080/solr/collection1");
+		//创建一个文档对象solrInputDocument
+		//向文档对象中添加域，文档中必须包含一个id域，所有域的名称必须在schema.xml中定义
+		//把文档写入索引库
+		//提交
+		
+	}
+}

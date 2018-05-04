@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="JedisTest" project="content-service" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="mall.redis.JedisTest" time="0.248">
-    <testcase name="testJedis" classname="mall.redis.JedisTest" time="0.025"/>
-    <testcase name="testJedisPool" classname="mall.redis.JedisTest" time="0.222"/>
-  </testsuite>
-</testrun>
