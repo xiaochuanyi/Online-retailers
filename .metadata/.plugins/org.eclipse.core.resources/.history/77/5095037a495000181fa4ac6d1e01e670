@@ -1,0 +1,13 @@
+package mall.active;
+
+public class ActiveMqTest {
+	/**
+	 * 点到点形式发送消息
+	 * <p>Title: testQueueProducer</p>
+	 * <p>Description: </p>
+	 * @throws Exception
+	 */
+	public void testQueueProducer() throws Exception{
+		
+	}
+}

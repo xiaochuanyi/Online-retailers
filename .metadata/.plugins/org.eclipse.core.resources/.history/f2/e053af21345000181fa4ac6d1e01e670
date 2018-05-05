@@ -1,0 +1,10 @@
+package mall.solrj;
+
+import org.junit.Test;
+
+public class TestSolrCloud {
+	@Test
+	public void testAddDoucument() throws Exception{
+		
+	}
+}
