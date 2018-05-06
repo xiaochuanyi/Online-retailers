@@ -1,0 +1,7 @@
+package mall.item.pojo;
+
+import mall.pojo.TbItem;
+
+public class Item extends TbItem {
+
+}

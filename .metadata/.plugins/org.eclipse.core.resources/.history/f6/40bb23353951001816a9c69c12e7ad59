@@ -1,0 +1,17 @@
+package mall.freemarker;
+
+import freemarker.template.Configuration;
+
+public class FreeMarkerTest {
+	//创建一个模板文件
+	Configuration configuration = new Configuration(Configuration.getVersion());
+	//创建一个Configuration对象
+	configuration.setDirectoryForTemplateLoading(new File("D:/workspaces-itcast/JavaEE32/e3-item-web/src/main/webapp/WEB-INF/ftl"));
+	//设置模板文件保存目录
+	//模板文件的编码格式，一般为UTF-8
+	//加载一个模板文件，创建一个模板对象
+	//创建一个数据集，可以是pojo，也可以是map，推荐使用map
+	//创建一个writer对象，指定输出文件的路径和文件名
+	//生成静态页面
+	//关闭流
+}

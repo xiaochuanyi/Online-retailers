@@ -7,4 +7,6 @@
 <typeInfo handle="=search-interface/src\/main\/java&lt;mall.search.service{SearchItemService.java[SearchItemService" modifiers="513" timestamp="1525420528584"/>
 <typeInfo handle="=search-interface/src\/main\/java&lt;mall.search.service{SearchService.java[SearchService" modifiers="513" timestamp="1525435803083"/>
 <typeInfo handle="=search-web/C:\/课用软件\/mall\/repository\/org\/springframework\/spring-webmvc\/4.2.4.RELEASE\/spring-webmvc-4.2.4.RELEASE.jar&lt;org.springframework.web.servlet(HandlerExceptionResolver.class[HandlerExceptionResolver" modifiers="1537" timestamp="1463390358142"/>
+<typeInfo handle="=search-service/C:\/课用软件\/mall\/repository\/org\/apache\/activemq\/activemq-all\/5.11.2\/activemq-all-5.11.2.jar&lt;javax.jms(MessageListener.class[MessageListener" modifiers="1537" timestamp="1463412213137"/>
+<typeInfo handle="=manager-pojo/src\/main\/java&lt;mall.pojo{TbItem.java[TbItem" modifiers="1" timestamp="1524658873215"/>
 </typeInfoHistroy>
