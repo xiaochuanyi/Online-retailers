@@ -22,10 +22,12 @@ import mall.search.service.SearchItemService;
  */
 @Service
 public class SearchItemServiceImpl implements SearchItemService {
+
 	@Autowired
 	private ItemMapper itemMapper;
 	@Autowired
 	private SolrServer solrServer;
+	
 	@Override
 	public E3Result importAllItems() {
 		try {

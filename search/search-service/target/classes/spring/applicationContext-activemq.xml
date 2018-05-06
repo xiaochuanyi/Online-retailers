@@ -25,7 +25,7 @@
 	</bean>
 	<!--这个是主题目的地，一对多的 -->
 	<bean id="topicDestination" class="org.apache.activemq.command.ActiveMQTopic">
-		<constructor-arg value="topic" />
+		<constructor-arg value="itemAddtopic" />
 	</bean>
 	<bean id="myMessageListener" class="mall.search.message.MyMessageListener"></bean>
 	<!-- 消息监听容器 -->
@@ -34,4 +34,12 @@
 		<property name="destination" ref="queueDestination" />
 		<property name="messageListener" ref="myMessageListener" />
 	</bean>	
+	<bean id="itemAddMessageListener" class="mall.search.message.ItemAddMessageListener"></bean>
+	<!-- 商品添加消息监听容器 -->
+	<bean class="org.springframework.jms.listener.DefaultMessageListenerContainer">
+		<property name="connectionFactory" ref="connectionFactory" />
+		<property name="destination" ref="topicDestination" />
+		<property name="messageListener" ref="itemAddMessageListener" />
+	</bean>	
+	
 </beans>

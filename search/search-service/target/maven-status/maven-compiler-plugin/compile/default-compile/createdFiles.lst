@@ -1,4 +1,6 @@
+mall\search\message\ItemAddMessageListener.class
+mall\search\message\MyMessageListener.class
 mall\search\mapper\ItemMapper.class
-mall\search\dao\SearchDao.class
 mall\search\service\impl\SearchServiceImpl.class
+mall\search\dao\SearchDao.class
 mall\search\service\impl\SearchItemServiceImpl.class
