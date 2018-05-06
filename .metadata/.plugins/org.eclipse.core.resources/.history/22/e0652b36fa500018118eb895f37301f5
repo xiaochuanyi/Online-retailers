@@ -1,0 +1,5 @@
+package mall.search.message;
+
+public class MyMessageListener {
+
+}

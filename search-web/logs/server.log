@@ -4779,3 +4779,31 @@ Got ping response for sessionid: 0x1632ff2497a0008 after 1ms
 
 [DEBUG] 2018-05-05 21:21:51,655 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
 Got ping response for sessionid: 0x1632ff2497a0008 after 1ms
+
+
+[DEBUG] 2018-05-05 21:22:01,656 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x1632ff2497a0008 after 1ms
+
+
+[DEBUG] 2018-05-05 21:22:11,281 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:72)
+ [DUBBO] Received heartbeat from remote channel /113.251.171.212:20882, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 113.251.171.212
+
+
+[DEBUG] 2018-05-05 21:22:11,656 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x1632ff2497a0008 after 1ms
+
+
+[DEBUG] 2018-05-05 21:22:21,659 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x1632ff2497a0008 after 1ms
+
+
+[DEBUG] 2018-05-05 21:22:31,660 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x1632ff2497a0008 after 2ms
+
+
+[DEBUG] 2018-05-05 21:22:41,662 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x1632ff2497a0008 after 3ms
+
+
+[DEBUG] 2018-05-05 21:22:51,675 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x1632ff2497a0008 after 14ms
