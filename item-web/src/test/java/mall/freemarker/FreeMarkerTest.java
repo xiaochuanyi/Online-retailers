@@ -27,7 +27,7 @@ public class FreeMarkerTest {
 		Map data = new HashMap<>();
 		data.put("hello", "hello freemarker!");
 		//7、创建一个Writer对象，指定输出文件的路径及文件名。
-		Writer out = new FileWriter(new File("D:/temp/JavaEE32/freemarker/hello.txt"));
+		Writer out = new FileWriter(new File("D:/JavaEE32/freemarker/hello.txt"));
 		//8、生成静态页面
 		template.process(data, out);
 		//9、关闭流

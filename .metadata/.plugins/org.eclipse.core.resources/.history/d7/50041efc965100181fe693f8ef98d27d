@@ -1,0 +1,5 @@
+package mall.item.controller;
+
+public class HtmlGenController {
+
+}

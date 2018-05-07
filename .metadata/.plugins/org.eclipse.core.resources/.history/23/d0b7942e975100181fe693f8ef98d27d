@@ -1,0 +1,16 @@
+package mall.item.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
+/**
+ * 生成静态页面测试controller
+ */
+@Controller
+public class HtmlGenController {
+	@RequestMapping("/gehtml")
+	@ResponseBody
+	public String genHtml(){
+		
+	}
+}
