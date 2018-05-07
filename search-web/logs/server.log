@@ -1265,3 +1265,31 @@ Looking for @ControllerAdvice: WebApplicationContext for namespace 'search-web-s
 
 [INFO ] 2018-05-07 19:09:59,395 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
 FrameworkServlet 'search-web': initialization completed in 4486 ms
+
+
+[INFO ] 2018-05-07 19:35:40,011 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:130)
+ [DUBBO] disconected from /113.250.154.181:20882,url:dubbo://113.250.154.181:20882/mall.search.service.SearchService?anyhost=true&application=search-web&check=false&codec=dubbo&dubbo=2.5.3&heartbeat=60000&interface=mall.search.service.SearchService&methods=search&pid=9212&revision=0.0.1-SNAPSHOT&side=consumer&timeout=600000&timestamp=1525691396457, dubbo version: 2.5.3, current host: 113.250.154.181
+
+
+[WARN ] 2018-05-07 19:35:41,535 method:com.alibaba.dubbo.remoting.transport.AbstractClient$1.run(AbstractClient.java:160)
+ [DUBBO] client reconnect to 113.250.154.181:20882 find error . url: dubbo://113.250.154.181:20882/mall.search.service.SearchService?anyhost=true&application=search-web&check=false&codec=dubbo&dubbo=2.5.3&heartbeat=60000&interface=mall.search.service.SearchService&methods=search&pid=9212&revision=0.0.1-SNAPSHOT&side=consumer&timeout=600000&timestamp=1525691396457, dubbo version: 2.5.3, current host: 113.250.154.181
+com.alibaba.dubbo.remoting.RemotingException: client(url: dubbo://113.250.154.181:20882/mall.search.service.SearchService?anyhost=true&application=search-web&check=false&codec=dubbo&dubbo=2.5.3&heartbeat=60000&interface=mall.search.service.SearchService&methods=search&pid=9212&revision=0.0.1-SNAPSHOT&side=consumer&timeout=600000&timestamp=1525691396457) failed to connect to server /113.250.154.181:20882, error message is:Connection refused: no further information: /113.250.154.181:20882
+	at com.alibaba.dubbo.remoting.transport.netty.NettyClient.doConnect(NettyClient.java:124)
+	at com.alibaba.dubbo.remoting.transport.AbstractClient.connect(AbstractClient.java:280)
+	at com.alibaba.dubbo.remoting.transport.AbstractClient$1.run(AbstractClient.java:145)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:304)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.ConnectException: Connection refused: no further information: /113.250.154.181:20882
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:739)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:150)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:312)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	... 3 more
