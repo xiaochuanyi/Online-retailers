@@ -1,0 +1,5 @@
+package mall.sso.service;
+
+public interface TokenService {
+
+}

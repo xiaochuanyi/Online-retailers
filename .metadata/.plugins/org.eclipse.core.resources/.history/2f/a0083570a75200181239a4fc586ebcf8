@@ -1,0 +1,21 @@
+package mall.sso.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import mall.sso.service.TokenService;
+
+/**
+ * 根据token查询用户信息
+ * <p>Title: TokenController</p>
+ * <p>Description: </p>
+ * <p>Company: www.itcast.cn</p> 
+ * @version 1.0
+ */
+@Controller
+public class TokenController {
+	@Autowired
+	private TokenService tokenService;
+	@RequestMapping("/user/token/{token}")
+}
