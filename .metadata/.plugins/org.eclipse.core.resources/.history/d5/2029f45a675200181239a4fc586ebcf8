@@ -1,0 +1,29 @@
+package mall.sso.service.impl;
+
+import javax.imageio.spi.RegisterableService;
+import javax.imageio.spi.ServiceRegistry;
+
+import org.springframework.stereotype.Service;
+/**
+ * 用户注册处理
+ * <p>Title: RegisterServiceImpl</p>
+ * <p>Description: </p>
+ * <p>Company: www.itcast.cn</p> 
+ * @version 1.0
+ */
+@Service
+public class RegisterServiceImpl implements RegisterableService {
+
+	@Override
+	public void onRegistration(ServiceRegistry registry, Class<?> category) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void onDeregistration(ServiceRegistry registry, Class<?> category) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

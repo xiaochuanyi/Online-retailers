@@ -1,0 +1,26 @@
+package mall.sso.service.impl;
+
+import javax.imageio.spi.ServiceRegistry;
+
+import org.springframework.stereotype.Service;
+
+import mall.commom.utils.E3Result;
+import mall.sso.service.RegisterService;
+/**
+ * 用户注册处理
+ * <p>Title: RegisterServiceImpl</p>
+ * <p>Description: </p>
+ * <p>Company: www.itcast.cn</p> 
+ * @version 1.0
+ */
+@Service
+public class RegisterServiceImpl implements RegisterService {
+
+	@Override
+	public E3Result checkData(String param, int type) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+}

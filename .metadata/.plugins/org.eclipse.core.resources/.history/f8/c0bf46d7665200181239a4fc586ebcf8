@@ -1,0 +1,7 @@
+package mall.search.service;
+
+import mall.commom.utils.E3Result;
+
+public interface RegiserService {
+	E3Result checkData(String param,int type);
+}

@@ -1,0 +1,27 @@
+package mall.sso.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import mall.commom.utils.E3Result;
+
+/**
+ * 注册功能controller
+ * <p>Title: RegisterController</p>
+ * <p>Description: </p>
+ * <p>Company: www.itcast.cn</p> 
+ * @version 1.0
+ */
+@Controller
+public class RegisterController {
+	@RequestMapping("/page/register")
+	public String showRegister(){
+		return "register";
+	}
+	@RequestMapping("/user/check/{param}/{type}")
+	public E3Result checkData(){
+		
+	}
+	
+}
