@@ -26,4 +26,5 @@
 	<dubbo:application name="sso-web"/>
 	<dubbo:registry protocol="zookeeper" address="192.168.25.177:2181"/>	
 	<dubbo:reference interface="mall.sso.service.RegisterService" id="registerService" />
+	<dubbo:reference interface="mall.sso.service.LoginService" id="loginService" />
 </beans>

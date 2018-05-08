@@ -1,0 +1,38 @@
+package mall.sso.service.impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import jedis.JedisClient;
+import mall.commom.utils.E3Result;
+import mall.mapper.TbUserMapper;
+import mall.sso.service.LoginService;
+import sun.tools.jar.resources.jar;
+/**
+ * 用户登录处理
+ * <p>Title: LoginServiceImpl</p>
+ * <p>Description: </p>
+ * <p>Company: www.itcast.cn</p> 
+ * @version 1.0
+ */
+@Service
+public class LoginServiceImpl implements LoginService {
+	@Autowired
+	private TbUserMapper userMapper;
+	@Autowired
+	private JedisClient jedisClient;
+	@Override
+	public E3Result userLogin(String username, String passwrod) {
+		/**
+		 * 业务逻辑
+		 * 1.判断用户名和密码是否正确
+		 * 2.不正确返回登录失败
+		 * 3.正确生成token
+		 * 4.把用户信息写入redis，key为token value：用户信息
+		 * 5.设置Session的过期时间
+		 * 6.返回token
+		 */
+		return null;
+	}
+
+}

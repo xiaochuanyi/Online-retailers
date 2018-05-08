@@ -1,0 +1,18 @@
+package mall.sso.service;
+
+import mall.commom.utils.E3Result;
+
+public interface LoginService {
+	//参数：用户名密码
+	/**
+	 * 业务逻辑
+	 * 1.判断用户名和密码是否正确
+	 * 2.不正确返回登录失败
+	 * 3.正确生成token
+	 * 4.把用户信息写入redis，key为token value：用户信息
+	 * 5.设置Session的过期时间
+	 * 6.返回token
+	 */
+	//返回值：E3Result :包含token信息
+	E3Result userLogin(String username,String passwrod);
+}

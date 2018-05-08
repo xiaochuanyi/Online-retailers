@@ -1,0 +1,14 @@
+package mall.sso.service.impl;
+
+import mall.commom.utils.E3Result;
+import mall.sso.service.LoginService;
+
+public class LoginServiceImpl implements LoginService {
+
+	@Override
+	public E3Result userLogin(String username, String passwrod) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
