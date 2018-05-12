@@ -85,4 +85,20 @@ public class CartController {
 		List<TbItem> list = JsonUtils.jsonToList(json, TbItem.class);
 		return list;
 	}
+	/**
+	 * 购物车列表展示
+	 * <p>Title: showCartList</p>
+	 * <p>Description: </p>
+	 * @param request
+	 * @return
+	 */
+	@RequestMapping("/cart/cart")
+	public String showCartList(HttpServletRequest request){
+		//从cookie中去购物车列表
+		List<TbItem> cartList = getCartListFromCookie(request);
+		//把列表传给页面
+		request.setAttribute("cartList", cartList);
+		//返回逻辑视图
+		return "cart";
+	}
 }
