@@ -1,7 +1,0 @@
-package mall.common.pojo;
-
-import java.io.Serializable;
-
-public class SearchResult implements Serializable{
-	
-}

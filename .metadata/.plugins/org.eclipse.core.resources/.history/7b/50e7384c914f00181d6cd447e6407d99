@@ -1,5 +1,0 @@
-package mall.search.service;
-
-public interface SearchService {
-
-}

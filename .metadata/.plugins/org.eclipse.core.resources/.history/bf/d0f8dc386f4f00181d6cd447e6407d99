@@ -1,9 +1,0 @@
-package mall.solrj;
-
-public class TestSolrJ {
-	public void addDocument() throws Exception{
-		//创建solrService对象，创建一个连接，参数solr服务的url
-		//创建一个文档对象solrInputDocument
-		//向文档对象中添加域，文档中必须包含一个id域
-	}
-}

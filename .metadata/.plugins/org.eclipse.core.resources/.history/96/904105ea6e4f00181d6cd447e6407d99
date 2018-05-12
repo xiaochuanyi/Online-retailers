@@ -1,7 +1,0 @@
-package mall.solrj;
-
-public class TestSolrJ {
-	public void addDocument() throws Exception{
-		
-	}
-}

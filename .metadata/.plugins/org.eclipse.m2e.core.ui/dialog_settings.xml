@@ -25,6 +25,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\课用软件\mall\cart"/>
 			<item value="C:\课用软件\mall\sso"/>
 			<item value="C:\课用软件\mall\portal-web"/>
 			<item value="C:\课用软件\mall\manager"/>
@@ -67,6 +68,8 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="cart-service"/>
+			<item value="cart-interface"/>
 			<item value="sso-service"/>
 			<item value="sso-interface"/>
 			<item value="search-service"/>
@@ -80,8 +83,6 @@
 			<item value="manager-dao"/>
 			<item value="pojo"/>
 			<item value="Dao"/>
-			<item value="service"/>
-			<item value="interface"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -115,8 +116,12 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="sso-web"/>
+			<item value="cart-web"/>
 			<item value="parent"/>
+			<item value="cart-service"/>
+			<item value="cart"/>
+			<item value="cart-interface"/>
+			<item value="sso-web"/>
 			<item value="sso"/>
 		</list>
 		<list key="projectNameTemplate">

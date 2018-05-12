@@ -13,8 +13,9 @@
 		<item value="false" key="isRegEx"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="sso-web" key="selection"/>
+		<item value="cart-web" key="selection"/>
 		<list key="findhistory">
+			<item value="item-web"/>
 			<item value="portal-web"/>
 			<item value="\"/>
 			<item value="163"/>
@@ -22,9 +23,9 @@
 			<item value="162"/>
 			<item value="insert"/>
 			<item value="version"/>
-			<item value="spring-version"/>
 		</list>
 		<list key="replacehistory">
+			<item value="cart-web"/>
 			<item value="sso-web"/>
 			<item value="/"/>
 			<item value="item-web"/>
@@ -32,7 +33,6 @@
 			<item value="177"/>
 			<item value="search-web"/>
 			<item value="mall"/>
-			<item value=""/>
 		</list>
 	</section>
 </section>

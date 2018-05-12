@@ -1,5 +1,0 @@
-package mall.redis;
-
-public class JedisClientTest {
-
-}
