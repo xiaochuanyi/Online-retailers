@@ -1,0 +1,32 @@
+package mall.cart.service.impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import jedis.JedisClient;
+import mall.cart.service.CartService;
+import mall.commom.utils.E3Result;
+/**
+ * 购物车处理服务
+ * <p>Title: CartServiceImpl</p>
+ * <p>Description: </p>
+ * <p>Company: www.itcast.cn</p> 
+ * @version 1.0
+ */
+@Service
+public class CartServiceImpl implements CartService {
+	@Autowired
+	private JedisClient jedisClient;
+	@Override
+	public E3Result addCart(Long userId, Long itemId,int num) {
+		//向redis中添加购物车
+		//数据类型是hash：key 用户id filed ：商品id value 商品信息
+		//判断商品是否存在
+		//如果存在,商品数量相加
+		//如果不存在，根据商品id取商品信息
+		//添加到购物车列表
+		//返回成功
+		return null;
+	}
+
+}

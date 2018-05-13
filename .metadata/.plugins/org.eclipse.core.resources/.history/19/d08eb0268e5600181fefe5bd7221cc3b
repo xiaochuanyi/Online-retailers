@@ -1,0 +1,7 @@
+package mall.cart.service;
+
+import mall.commom.utils.E3Result;
+
+public interface CartService {
+	E3Result addCart(Long userId,Long itemId,int num);
+}
