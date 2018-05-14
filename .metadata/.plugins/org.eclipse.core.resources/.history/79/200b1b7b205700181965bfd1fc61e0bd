@@ -1,0 +1,28 @@
+package mall.order.controller;
+
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import mall.cart.service.CartService;
+
+/**
+ * 订单管理controller
+ * <p>Title: OrderController</p>
+ * <p>Description: </p>
+ * <p>Company: www.itcast.cn</p> 
+ * @version 1.0
+ */
+@Controller
+public class OrderController {
+	@Autowired
+	private CartService carService;
+	 @RequestMapping("/order/order-cart")
+	 public String showOrderCart(HttpServletRequest request){
+		 //取用户id
+		 request.getAttribute("user");
+		 return "order-cart";
+	 }
+}

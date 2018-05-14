@@ -1,0 +1,40 @@
+package mall.order.controller;
+
+import java.util.List;
+
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import mall.cart.service.CartService;
+import mall.pojo.TbItem;
+import mall.pojo.TbUser;
+
+/**
+ * 订单管理controller
+ * <p>Title: OrderController</p>
+ * <p>Description: </p>
+ * <p>Company: www.itcast.cn</p> 
+ * @version 1.0
+ */
+@Controller
+public class OrderController {
+	@Autowired
+	private CartService carService;
+	 @RequestMapping("/order/order-cart")
+	 public String showOrderCart(HttpServletRequest request){
+		 //根据用户id取收货列表
+		 //使用静态数据
+		 //取支付方式列表
+		 //取用户id
+		 TbUser user = (TbUser) request.getAttribute("user");
+		 //根据用户id取购物车列表
+		 List<TbItem> cartList = carService.getCartList(user.getId());
+		 //把购物车列表传递给jsp
+		 request.setAttribute("cartList", cartList);
+		 //返回页面
+		 return "order-cart";
+	 }
+}

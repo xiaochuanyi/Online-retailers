@@ -49,10 +49,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="groupId">
+			<item value="mall"/>
 		</list>
 		<list key="package">
+			<item value="org.s"/>
 		</list>
 		<list key="artifactId">
+			<item value="s"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -68,6 +71,7 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="s"/>
 			<item value="cart-service"/>
 			<item value="cart-interface"/>
 			<item value="sso-service"/>
@@ -82,7 +86,6 @@
 			<item value="manager-interface"/>
 			<item value="manager-dao"/>
 			<item value="pojo"/>
-			<item value="Dao"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -116,13 +119,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="cart-web"/>
-			<item value="parent"/>
-			<item value="cart-service"/>
-			<item value="cart"/>
-			<item value="cart-interface"/>
-			<item value="sso-web"/>
-			<item value="sso"/>
+			<item value="s"/>
+			<item value="common"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

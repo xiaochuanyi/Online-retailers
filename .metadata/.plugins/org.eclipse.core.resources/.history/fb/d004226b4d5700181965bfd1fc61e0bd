@@ -1,0 +1,48 @@
+package mall.order.service.impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Service;
+
+import jedis.JedisClient;
+import mall.commom.utils.E3Result;
+import mall.mapper.TbOrderItemMapper;
+import mall.mapper.TbOrderMapper;
+import mall.mapper.TbOrderShippingMapper;
+import mall.order.pojo.OrderInfo;
+import mall.order.service.OrderService;
+/**
+ * 订单处理服务
+ * <p>Title: OrderServiceImpl</p>
+ * <p>Description: </p>
+ * <p>Company: www.itcast.cn</p> 
+ * @version 1.0
+ */
+@Service
+public class OrderServiceImpl implements OrderService {
+	@Autowired
+	private TbOrderMapper orderMapper;
+	@Autowired
+	private TbOrderItemMapper orderItemMapper;
+	@Autowired
+	private TbOrderShippingMapper orderShippingMapper;
+	@Autowired
+	private JedisClient jedisClient;
+	@Value("${ORDER_ID_GEN_KEY}")
+	private String ORDER_ID_GEN_KEY;
+	@Override
+	public E3Result createOrder(OrderInfo orderInfo) {
+		//生成订单号,使用redis的incr生成
+		if(!jedisClient.exists(ORDER_ID_GEN_KEY)){
+			jedisClient.set(ORDER_ID_GEN_KEY,ORDER_ID_START);
+		}
+		jedisClient.incr(ORDER_ID_GEN_KEY);
+		//补全TbOrder的属性
+		//向订单表插入数据
+		//向订单明细表插入数据
+		//向订单物流表插入数据
+		//返回成功，包含订单号
+		return null;
+	}
+
+}

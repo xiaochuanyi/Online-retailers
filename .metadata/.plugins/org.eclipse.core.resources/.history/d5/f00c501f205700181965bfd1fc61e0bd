@@ -1,0 +1,19 @@
+package mall.order.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+/**
+ * 订单管理controller
+ * <p>Title: OrderController</p>
+ * <p>Description: </p>
+ * <p>Company: www.itcast.cn</p> 
+ * @version 1.0
+ */
+@Controller
+public class OrderController {
+	 @RequestMapping("/order/order-cart")
+	 public String showOrderCart(){
+		 return "order-cart";
+	 }
+}

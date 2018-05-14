@@ -12,4 +12,7 @@
 <typeInfo handle="=sso-service/C:\/Program Files \(x86)\/Java\/jdk1.7.0_72\/jre\/lib\/rt.jar&lt;javax.imageio.spi(RegisterableService.class[RegisterableService" modifiers="1537" timestamp="1524633393826"/>
 <typeInfo handle="=sso-interface/src\/main\/java&lt;mall.sso.service{LoginService.java[LoginService" modifiers="513" timestamp="1525763113657"/>
 <typeInfo handle="=sso-interface/src\/main\/java&lt;mall.sso.service{TokenService.java[TokenService" modifiers="513" timestamp="1525772963644"/>
+<typeInfo handle="=cart-web/C:\/课用软件\/mall\/repository\/org\/springframework\/spring-webmvc\/4.2.4.RELEASE\/spring-webmvc-4.2.4.RELEASE.jar&lt;org.springframework.web.servlet(HandlerInterceptor.class[HandlerInterceptor" modifiers="1537" timestamp="1463390358142"/>
+<typeInfo handle="=cart-web/C:\/课用软件\/mall\/repository\/org\/springframework\/spring-webmvc\/4.2.4.RELEASE\/spring-webmvc-4.2.4.RELEASE.jar&lt;org.springframework.web.servlet(HandlerAdapter.class[HandlerAdapter" modifiers="1537" timestamp="1463390358142"/>
+<typeInfo handle="=cart-interface/src\/main\/java&lt;mall.cart.service{CartService.java[CartService" modifiers="513" timestamp="1526207750204"/>
 </typeInfoHistroy>

@@ -1,0 +1,11 @@
+package mall.order.pojo;
+
+import java.io.Serializable;
+import java.util.List;
+
+import mall.pojo.TbOrder;
+import mall.pojo.TbOrderItem;
+
+public class OrderInfo extends TbOrder implements Serializable{
+	private List<TbOrderItem> orderItems;
+}

@@ -1,5 +1,0 @@
-package mall.MessageMQ;
-
-public class MessageConsumer {
-
-}

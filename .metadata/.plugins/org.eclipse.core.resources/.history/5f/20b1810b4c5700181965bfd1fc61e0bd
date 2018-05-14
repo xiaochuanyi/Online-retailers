@@ -1,0 +1,5 @@
+package mall.order.service;
+
+public interface OrderService {
+
+}
